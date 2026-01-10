@@ -1,13 +1,13 @@
 # @portal-solutions/weeds
 
 ## Description
-
+A TypeScript package (`weeds`). Likely a utility library.
 
 ## Goals
-- [ ] Add project goals
+- [ ] TBD
 
 ## Progress
-- [ ] Initial setup
+- [ ] Package setup
 
 ---
 *AI assisted*
